@@ -3,3 +3,6 @@
 // The function should take three arguments - operation(string/char), value1(number), value2(number).
 // The function should return result of numbers after applying the chosen operation.
 
+function even_or_odd(number) {
+    return number % 2 ? "Odd" : "Even"
+  }
