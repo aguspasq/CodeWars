@@ -4,7 +4,7 @@
 
 // The four operators are "add", "subtract", "divide", "multiply".
 
-//Podría resolverla como en clase con callbacks, pero quería practicar switch. 
+//Podría resolverla como en clase con callbacks, pero quería practicar switch
 
 function arithmetic(a,b,operacion) {
     switch (operacion) {

@@ -1,0 +1,6 @@
+.length = saber tamanio string / array
+[0]= saber la primer letra de un string. Tambien se pueden usar otros numerps para recorrer otras letras. Recordar que empieza de cero. Para averiguar ultima, usar .length -1.
+.push() = toma un parametro y lo envia al final del array. 
+.pop() = quita el ultimo elemento de un array. Se puede asignar ek valor a una variable.
+.shift() = quita el primer elemento de un array.
+.unshift() = agrega un elemento al principio del array.
